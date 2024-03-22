@@ -5,7 +5,7 @@ A simple and addictive console-based implementation of the classic Snake game, w
 # Installation
 
 clone the repository
-Open the main.py and run the game
+Open the main.py and run the game.
 
 # how to play
 
@@ -18,3 +18,4 @@ Enjoy!
 # contact
 
 If you have any questions or feeedback, please contact me at: mitchellogbo@gmail.com.
+Thanks.
