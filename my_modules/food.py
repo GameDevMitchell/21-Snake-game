@@ -2,6 +2,7 @@ from turtle import Turtle
 from random import randint
 
 
+# food class
 class Food(Turtle):
     """A simple attempt to model the food of a snake game"""
 
